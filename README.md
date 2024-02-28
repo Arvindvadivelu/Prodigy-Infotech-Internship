@@ -21,6 +21,8 @@ WEBSITE: [https://carscrubz.netlify.app/](https://carscrubz.netlify.app/)
 
 TASK 2: STOPWATCH WEB APPLICATION:-
 
+WEBSITE: [https://prodigytimer.netlify.app/](https://prodigytimer.netlify.app/)
+
 ![01](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/25b206ad-0660-4889-95cd-dcc906376f17)
 
 TASK 3: TIC-TAC-TOC WEB APPLICATION:-
