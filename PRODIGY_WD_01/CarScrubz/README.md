@@ -6,7 +6,7 @@ WEBSITE: [https://carscrubz.netlify.app/](https://carscrubz.netlify.app/)
 
 THEME : Car Washing Website
 
-DESCRIPTION:=
+DESCRIPTION:-
 
 The first task involved creating a responsive landing page, which required me to ensure that the webpage adapts seamlessly to different screen sizes and devices. 
 This task allowed me to gain a deeper understanding of responsive design principles and techniques.
