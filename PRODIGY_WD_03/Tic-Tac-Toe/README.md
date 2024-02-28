@@ -7,9 +7,16 @@ WEBSITE: [https://ticktacktok.netlify.app/](https://ticktacktok.netlify.app/)
 
 DESCRIPTION:-
 
-To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
-
-Moving on to the third task, I was tasked with creating a Tic-Tac-Toe web application. This involved using HTML, CSS, and JavaScript to develop a fully functional game that allows users to play against the computer or another player. This task allowed me to explore the intricacies of game development and further solidify my understanding of JavaScript.
+- Developed a Tic-Tac-Toe web application using HTML, CSS, and JavaScript.
+- Implemented functions to handle user clicks, track game state, and check for winning conditions.
+- Created an interactive and engaging game that provides a seamless user experience.
+- Allowed users to play against each other or against an AI opponent.
+- Aimed to get three markers in a row to win the game.
+- Explored the intricacies of game development while working on this task.
+- Strengthened my understanding of JavaScript through practical application.
+- Demonstrated proficiency in front-end web development technologies.
+- Ensured the game was fully functional and bug-free.
+- Provided an opportunity to showcase my problem-solving skills and attention to detail.
 
 PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
