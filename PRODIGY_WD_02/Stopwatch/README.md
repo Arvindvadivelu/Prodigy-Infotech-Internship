@@ -6,8 +6,16 @@ WEBSITE: [https://prodigytimer.netlify.app/](https://prodigytimer.netlify.app/)
 
 DESCRIPTION:-
 
-To build a stopwatch web application, you can use HTML, CSS, and JavaScript. HTML is used to structure the elements of the application. By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals. With these technologies and functionalities, you can create an interactive and user-friendly stopwatch web application.
-The second task involved developing a stopwatch web application. This required me to utilize JavaScript to create a functional stopwatch that accurately measures time. Through this task, I not only honed my JavaScript skills but also gained valuable experience in implementing interactive features on a webpage.
+- Utilize HTML, CSS, and JavaScript to develop a stopwatch web application
+- HTML is essential for structuring the elements of the application
+- Implement functions for starting, pausing, and resetting the stopwatch
+- Include features for tracking and displaying lap times for accurate time measurement
+- Create an interactive and user-friendly interface for the stopwatch application
+- Develop a functional stopwatch using JavaScript to accurately measure time intervals
+- Hone JavaScript skills through the development process
+- Gain valuable experience in implementing interactive features on a webpage
+- Enhance understanding of how JavaScript can be used to create dynamic web applications
+- Improve proficiency in utilizing HTML, CSS, and JavaScript for web development tasks
 
 PROGRAMMING LANGUAGE: HTML, CSS, JAVACRIPT
 
