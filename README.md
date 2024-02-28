@@ -27,8 +27,13 @@ WEBSITE: [https://prodigytimer.netlify.app/](https://prodigytimer.netlify.app/)
 
 TASK 3: TIC-TAC-TOC WEB APPLICATION:-
 
+WEBSITE: [https://ticktacktok.netlify.app/](https://ticktacktok.netlify.app/)
+
 ![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/7ea5371c-9798-4e21-9ce0-8aee482ea448)
 
-TASK 4: PERSONAL PORTFOLIO WEBSITE
+TASK 5: WEATHER APPLICATION:-
 
-TASK 5: WEATHER APPLICATION 
+WEBSITE: [https://weatherpocket.netlify.app/](https://weatherpocket.netlify.app/)
+
+![02](https://github.com/Arvindvadivelu/Prodigy-Infotech/assets/129649393/0f8351a5-9067-45f1-929d-eb753358ac99)
+
